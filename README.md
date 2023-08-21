@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/BryanCarlos/FAQ-Accordion-Card)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Live Site URL: [GitHub Page](https://bryancarlos.github.io/FAQ-Accordion-Card/)
 
 ## My process
 
